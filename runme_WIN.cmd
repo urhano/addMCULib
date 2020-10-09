@@ -1,0 +1,1 @@
+powershell -noexit "& .\create.ps1"
