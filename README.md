@@ -27,3 +27,4 @@ Be sure to have included the following SDK Components:
 
 - change deletion of `cortex-m33` and `risc-v` files to excluding them in the project
 - add a POSIX compatible shell-script for usage under GNU/Linux and macOS using `sed`
+- implement check if McuOnEclipseLibrary and McuLib exist already
